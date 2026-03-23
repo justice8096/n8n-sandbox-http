@@ -1,0 +1,32 @@
+{
+  "name": "n8n-sandbox-http",
+  "version": "1.0.0",
+  "description": "HTTP utility for n8n Code nodes using only built-in modules",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "keywords": [
+    "n8n",
+    "http",
+    "request",
+    "api",
+    "sandbox"
+  ],
+  "author": "Justice",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/n8n-sandbox-http"
+  },
+  "scripts": {
+    "test": "node tests/test.js"
+  },
+  "devDependencies": {},
+  "files": [
+    "src/",
+    "README.md",
+    "LICENSE"
+  ]
+}
