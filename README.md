@@ -393,7 +393,7 @@ Tests verify:
 
 ## License
 
-MIT © 2026 Justice
+MIT © 2026 Justice E. Chase
 
 ## Support
 
